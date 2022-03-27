@@ -1,0 +1,4 @@
+My name is Alex.
+I'm a QA Automation technical leader.
+I lead qa members and also developers in automation projects.
+I have a rich experience in design of automation projects.
